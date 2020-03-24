@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors       = ['Jason Long', 'GitHub, Inc.']
   s.email         = ['opensource+jekyll-theme-cayman@github.com']
   s.homepage      = 'https://github.com/pages-themes/cayman'
-  s.summary       = 'Cayman is a Jekyll theme for GitHub Pages'
+  s.summary       = 'A holistic comparison of fixed and variable segment durations within the adaptive video streaming eco-system'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
