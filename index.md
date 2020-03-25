@@ -4,6 +4,11 @@ layout: default
 
 # Comparing Fixed and Variable Segment Durations for Adaptive Video Streaming
 
+*Susanna Schwarzmann, Nick Hainke, TU Berlin*  
+*Thomas Zinner, NTNU - Norwegian University of Science and Technology*  
+*Christian Sieber, TU Munich*  
+*Werner Robitza, Alexander Raake, TU Ilmenau*  
+
 A holistic comparison of fixed and variable segment durations within the adaptive video streaming eco-system. We provide a large-scale investigation of video encoding efficiency to quantify the savings with respect to bitrate and storage for variable segment durations. Moreover, measurements with a variety of different bandwidth configurations are performed in a testbed to evaluate the impact of segment duration variability on the performance of the dash.js reference implementation.
 
 ## Video Encoding
