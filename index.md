@@ -41,6 +41,6 @@ Instructions and all necessary sources for setting up the streaming environment 
 
 
 ## Dataset 
-The dataset is available here: https://zenodo.org/record/3732206.
-It provides on the one hand the encoding results, and on the other hand, the videos which have been used for the video streaming experiments. 
+Our dataset on the one hand the encoding results, and on the other hand, the videos which have been used for the video streaming experiments. It can be found on Zenodo: 
+*[Video dataset](https://zenodo.org/record/3732206)
 
