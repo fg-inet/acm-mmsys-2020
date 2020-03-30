@@ -21,8 +21,8 @@ In this work, we provide a setup for video encoding making use of Docker.
 It automatically assigns encoding tasks from a job pool to a set of workers, which start a Docker container and encode videos according to the job description. 
 
 Detailed Instructions:
-* [Usage Of Docker Encoding Environment](https://github.com/fg-inet/docker-video-encoding)
-* [Creating Job Files For Encoding Container](https://github.com/fg-inet/video-scripts).
+* [Usage of docker encoding environment](https://github.com/fg-inet/docker-video-encoding)
+* [Creating job files for encoding container](https://github.com/fg-inet/video-scripts).
 
 
 ## DASH Streaming
