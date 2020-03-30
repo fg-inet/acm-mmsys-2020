@@ -17,10 +17,13 @@ A holistic comparison of fixed and variable segment durations within the adaptiv
 
 HAS services typically utilize a fixed segment duration. Due to the content-agnostic placement of I-frames at the beginning of each segment, additional encoding overhead is introduced. In order to mitigate this overhead, variable segment durations, which take scene-cuts during the video seg- mentation process into account, have been proposed recently. As a consequence, a lower number of I-frames is needed as compared to fixed segment durations, thus achieving a lower video bitrate without quality degradation.
 
+In this work, we provide a setup for video encoding making use of Docker.
+It automatically assigns encoding tasks from a job pool to a set of workers, which start a Docker container and encode videos according to the job description. 
 
 Detailed Instructions:
+* [Usage Of Docker Encoding Environment](https://github.com/fg-inet/docker-video-encoding)
 * [Creating Job Files For Encoding Container](https://github.com/fg-inet/video-scripts).
-* [Usage Of Docker Encoding Container](https://github.com/fg-inet/docker-video-encoding)
+
 
 ## DASH Streaming
 
@@ -31,8 +34,8 @@ The setup consists of three virtual machines.
    * The __netem__, which throttles the bandwidth, as for example defined by traces 
    * The __client__, which uses DASH.js to stream the video
 
-Detailed Instructions:
-Detailed Installation Instructions are listed [here](https://github.com/fg-inet/DASH-streaming-setup).
+We furthermore provide the streaming testbed, which is used to compare the performance of videos with variable segment durations with videos of fixed segment durations. 
+The setup and all instructions can be found [here](https://github.com/fg-inet/DASH-streaming-setup).
 
 
 ### Dataset 
