@@ -36,8 +36,8 @@ It consists of three virtual machines.
    * The __netem__, which throttles the bandwidth, as for example defined by traces 
    * The __client__, which uses DASH.js to stream the video
 
-
-The setup and all instructions can be found [here](https://github.com/fg-inet/DASH-streaming-setup).
+Instructions and all necessary sources for setting up the streaming environment can be found in the following GitHub repository: 
+* [DASH-streaming-setup](https://github.com/fg-inet/DASH-streaming-setup)
 
 
 ## Dataset 
