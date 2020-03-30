@@ -40,6 +40,6 @@ The setup and all instructions can be found [here](https://github.com/fg-inet/DA
 
 
 ## Dataset 
-The dataset is available here: https://zenodo.org/record/3732206
+The dataset is available here: https://zenodo.org/record/3732206.
 It provides on the one hand the encoding results, and on the other hand, the videos which have been used for the video streaming experiments. 
 
