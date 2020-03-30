@@ -29,12 +29,13 @@ Detailed Instructions:
 
 ![DASH Stream Testbed](https://raw.githubusercontent.com/fg-inet/DASH-streaming-setup/master/images/setup.JPG)
 
-The setup consists of three virtual machines. 
+We furthermore provide the streaming testbed, which is used to compare the performance of videos with variable segment durations with videos of fixed segment durations. 
+It consists of three virtual machines. 
    * The __server__, which hosts the video content 
    * The __netem__, which throttles the bandwidth, as for example defined by traces 
    * The __client__, which uses DASH.js to stream the video
 
-We furthermore provide the streaming testbed, which is used to compare the performance of videos with variable segment durations with videos of fixed segment durations. 
+
 The setup and all instructions can be found [here](https://github.com/fg-inet/DASH-streaming-setup).
 
 
