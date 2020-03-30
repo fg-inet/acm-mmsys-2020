@@ -38,7 +38,7 @@ We furthermore provide the streaming testbed, which is used to compare the perfo
 The setup and all instructions can be found [here](https://github.com/fg-inet/DASH-streaming-setup).
 
 
-### Dataset 
+## Dataset 
 The dataset is available here: https://zenodo.org/record/3732206
 It provides on the one hand the encoding results, and on the other hand, the videos which have been used for the video streaming experiments. 
 
