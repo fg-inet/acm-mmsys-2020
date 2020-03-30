@@ -20,9 +20,10 @@ HAS services typically utilize a fixed segment duration. Due to the content-agno
 In this work, we provide a setup for video encoding making use of Docker.
 It automatically assigns encoding tasks from a job pool to a set of workers, which start a Docker container and encode videos according to the job description. 
 
-Detailed Instructions:
+
+Inststructions and sources for the usage of the docker encoding environment and for creating job files for the encoding container can be found in the following GitHub repositories:
 * [Usage of docker encoding environment](https://github.com/fg-inet/docker-video-encoding)
-* [Creating job files for encoding container](https://github.com/fg-inet/video-scripts).
+* [Creating job files for encoding container](https://github.com/fg-inet/video-scripts)
 
 
 ## DASH Streaming
