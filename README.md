@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Comparing Fixed and Variable Segment Durations for Adaptive Video Streaming
 
 *Susanna Schwarzmann, Nick Hainke, TU Berlin*  
